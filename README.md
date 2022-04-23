@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Mai Daly<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer"></a>
+  <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer" ></a>
 </p>
 
-<br>
 <img src="https://komarev.com/ghpvc/?username=maidaly&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 
@@ -53,7 +53,7 @@
   &emsp;
     <a href="#"><img alt="tensorflow" src="https://img.shields.io/badge/-Tensorflow-orange?style=plastic&logo=tensorFlow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-PyTorch-lightgrey?style=plastic&logo=pytorch&logoColor=#EE4C2C"></a>
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-PyTorch-slategray%20?style=plastic&logo=pytorch&logoColor=#EE4C2C"></a>
   &emsp;
  <a href="#"><img alt="scipy" src="https://img.shields.io/badge/-SciPy-blue?style=plastic&logo=scipy&logoColor=white"></a>
   &emsp;
@@ -65,11 +65,11 @@
   &emsp;
     <a href="#"><img alt="opencv" src="https://img.shields.io/badge/-OpenCV-indianred?style=plastic&logo=opencv&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+    <a href="#"><img alt="nltk" src="https://img.shields.io/badge/-NLTK-lightseagreen?style=plastic&logo=python&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="spacy" src="https://img.shields.io/badge/-SpaCy-lightsteelblue?&style=plastic&logo=slides&logoColor=black"></a>
   &emsp;
-     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-Matplotlib-steelblue%20?style=plastic&logo=codacy&logoColor=white"></a>
   &emsp;
 </p>
 
@@ -81,9 +81,17 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="spyder" src="https://img.shields.io/badge/-Spyder%20IDE-orangered?style=plastic&logo=spyderide&logoColor=white" /></a>
+    <a href="#"><img alt="spyder" src="https://img.shields.io/badge/-Spyder%20IDE-chocolate%20%20?style=plastic&logo=spyderide&logoColor=white" /></a>
 </p>
 
+ ### 👉 Others
+ <p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/-Docker-cornflowerblue%20?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/-Git-tomato%20%20?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+</p>
 
  ### 👉 Operating Systems
  
@@ -99,7 +107,7 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=maidaly&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=maidaly&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="maidaly" /></p>
 
 ## 📊 Github Stats
 
