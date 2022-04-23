@@ -55,6 +55,8 @@
   &emsp;
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-PyTorch-slategray%20?style=plastic&logo=pytorch&logoColor=#EE4C2C"></a>
   &emsp;
+ <a href="#"><img alt="keras" src="https://img.shields.io/badge/-Keras-%23D52809?style=plastic&logo=keras&logoColor=white"></a>
+  &emsp;
  <a href="#"><img alt="scipy" src="https://img.shields.io/badge/-SciPy-blue?style=plastic&logo=scipy&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-red?style=plastic&logo=scikit-learn&logoColor=white"></a>
@@ -65,11 +67,15 @@
   &emsp;
     <a href="#"><img alt="opencv" src="https://img.shields.io/badge/-OpenCV-indianred?style=plastic&logo=opencv&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="nltk" src="https://img.shields.io/badge/-NLTK-lightseagreen?style=plastic&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="nltk" src="https://img.shields.io/badge/-NLTK-%23D5611E?style=plastic&logo=python&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="spacy" src="https://img.shields.io/badge/-SpaCy-lightsteelblue?&style=plastic&logo=slides&logoColor=black"></a>
   &emsp;
-     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-Matplotlib-steelblue%20?style=plastic&logo=codacy&logoColor=white"></a>
+     <a href="#"><img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-steelblue%20?style=plastic&logo=codacy&logoColor=white"></a>
+  &emsp;
+ <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-lightslategray%20%20?style=plastic&logo=flask&logoColor=black"></a>
+  &emsp;
+ <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-%2345598A?style=plastic&logo=plotly&logoColor=white"></a>
   &emsp;
 </p>
 
