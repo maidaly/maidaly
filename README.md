@@ -40,6 +40,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" width="60" height="20">
   </a> 
   &emsp;
+  <a href="https://www.rust-lang.org/" target="_blank">
   <img
       src="https://img.shields.io/badge/-Rust-crimson?style=plastic&logo=rust&logoColor=white" alt="rust"
       width="60" height="20" /> </a>
