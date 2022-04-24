@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Mai Daly<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<!--
 <p align="center">
   <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer" ></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=maidaly&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
+-->
 
 ## :sassy_man:  About me
 -  💻 I am a `Machine Learning Engineer` 
@@ -112,12 +112,13 @@
 
 <br/>
 
+<!--
+This part is commented to remove the comment. remove the previous line.
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=maidaly&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="maidaly" /></p>
 
 ## 📊 Github Stats
-
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -137,6 +138,6 @@
   <br/>
    <a href="https://github.com/maidaly"><img alt="mai-daly's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maidaly&custom_title=maidaly's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+-->
 
 <br/>
