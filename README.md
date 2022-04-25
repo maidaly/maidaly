@@ -112,15 +112,15 @@
 
 <br/>
 
-<!--
-This part is commented to remove the comment. remove the previous line.
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=maidaly&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="maidaly" /></p>
 
 ## 📊 Github Stats
 
-
+<!--
+This part is commented to remove the comment. remove the previous line.
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
