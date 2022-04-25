@@ -20,9 +20,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/mai-daly-010506167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mai-daly-010506167" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mai-daly-010506167" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="mai-daly-010506167" height="20" width="70" /></a>
 &emsp;
-<a href="mailto:mai.daly6@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mai-gmail" height="30" width="40" /></a>
+<a href="mailto:mai.daly6@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="mai-gmail" height="20" width="60" /></a>
 	
 </p>
 
