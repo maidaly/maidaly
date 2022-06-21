@@ -18,7 +18,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+###  👉 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/mai-daly-010506167" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="mai-daly-010506167" height="20" width="70" /></a>
 &emsp;
