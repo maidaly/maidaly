@@ -9,7 +9,7 @@
 
 ## :sassy_man:  About me
 -  💻 I am a `Machine Learning Engineer` 
-- Know about my experiences [RESUME](https://drive.google.com/file/d/1OHH1EywKNPMNXyE2cBg4_Q693i6jc7eI/view?usp=sharing).
+- Know about my experiences [RESUME](https://drive.google.com/file/d/1dPUNR-b31YXDJxOlwsJ8_XT4b2OAhr5D/view?usp=sharing).
 - 📖: Always `learning new things`
 
 <br>
