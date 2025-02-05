@@ -1,4 +1,3 @@
-<h1 align="center">Hi , I'm Mai Daly </h1>
 <!--
 <p align="center">
   <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer" ></a>
@@ -10,7 +9,6 @@
 ## :sassy_man:  About me
 -  💻 I am a `Machine Learning Engineer` 
 <!--- Know about my experiences [RESUME](https://drive.google.com/file/d/1jF2TJj6wvRg5-oJHJDk4iubxp[](url)e6r-fDb/view?usp=sharing).-->
-- 📖: Always `learning new things`
 
 <br>
 <br>
